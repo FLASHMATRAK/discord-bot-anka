@@ -1,0 +1,57 @@
+{
+  "token": "BURAYA_KENDİ_TOKENİNİ_YAZ",
+  "log_channel_id": 1531673199882797116,
+  "proof_channel_id": 1531403272508674208,
+  "welcome_channel_id": 123456789012345678,
+  "bounty_announce_channel_id": 1531403216527429732,
+  "diamond_grind_channel_id": 1531401832536998140,
+  "unbelievaboat_bot_id": 292953664492929025,
+  "nvidia_api_key": "BURAYA_NVIDIA_API_KEYİNİ_YAZ",
+  "nvidia_model": "meta/llama-3.1-8b-instruct",
+  "nvidia_system_prompt": "Sen bu Discord sunucusunda kullanıcılara yardımcı olan, Türkçe konuşan samimi bir yapay zeka asistanısın.",
+  "hunter_role_name": "Hunter",
+  "outlaw_role_name": "Outlaw",
+  "wanted_role_name": "Wanted",
+  "bad_words": [
+    "Fuck",
+    "amk",
+    "Shit",
+    "Asshole",
+    "Bitch",
+    "Bastard",
+    "Bullshit"
+  ],
+  "spam_limit": 5,
+  "spam_window": 5,
+  "wanted_chance": 0.2,
+  "min_bounty": 500,
+  "max_bounty": 5000,
+  "wanted_cooldown_minutes": 30,
+  "hunter_rank_roles": {
+    "5": "Skilled Hunter",
+    "15": "Elite Hunter",
+    "30": "Legendary Hunter"
+  },
+  "outlaw_rank_roles": {
+    "5": "Skilled Outlaw",
+    "15": "Elite Outlaw",
+    "30": "Legendary Outlaw"
+  },
+  "role_icons": {
+    "Hunter": "AP",
+    "Outlaw": "SP"
+  },
+  "server_rules": [
+    "Be respectful to all members.",
+    "No spamming or advertising.",
+    "No hate speech or harassment.",
+    "Follow Discord's Terms of Service.",
+    "Listen to moderators and admins."
+  ],
+  "nvidia_temperature": 0.7,
+  "nvidia_top_p": 0.95,
+  "nvidia_max_tokens": 1024,
+  "nvidia_reasoning_budget": 0,
+  "unbelievaboat_api_token": "BURAYA_UNBELIEVABOAT_API_TOKENINI_YAZ",
+  "catch_wanted_sp_penalty": 5
+}
