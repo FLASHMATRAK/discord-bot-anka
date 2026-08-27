@@ -1,0 +1,4 @@
+discord.py
+deep-translator
+openai
+openai
