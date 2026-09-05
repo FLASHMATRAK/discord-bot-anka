@@ -1,0 +1,46 @@
+[
+  {
+    "id": "night_market",
+    "name": "Gece Pazarı",
+    "description": "Gece pazarında gizemli bir fırsat ortaya çıktı.",
+    "risk": 15,
+    "reward_min": 50,
+    "reward_max": 120,
+    "failure_loss": 10,
+    "wanted_level": 1,
+    "wanted_duration": 1800
+  },
+  {
+    "id": "secret_tournament",
+    "name": "Gizli Turnuva",
+    "description": "Yeraltı tarzı gizli bir oyun turnuvasına katıldın.",
+    "risk": 35,
+    "reward_min": 100,
+    "reward_max": 250,
+    "failure_loss": 25,
+    "wanted_level": 1,
+    "wanted_duration": 3600
+  },
+  {
+    "id": "shadow_mission",
+    "name": "Gölge Görevi",
+    "description": "Kimliği bilinmeyen birinden gizli bir oyun görevi aldın.",
+    "risk": 60,
+    "reward_min": 200,
+    "reward_max": 500,
+    "failure_loss": 50,
+    "wanted_level": 2,
+    "wanted_duration": 5400
+  },
+  {
+    "id": "phoenix_heist",
+    "name": "Phoenix Operasyonu",
+    "description": "Efsanevi Phoenix ödülünü ele geçirmek için yüksek riskli bir göreve çıktın.",
+    "risk": 85,
+    "reward_min": 500,
+    "reward_max": 1200,
+    "failure_loss": 100,
+    "wanted_level": 3,
+    "wanted_duration": 7200
+  }
+]

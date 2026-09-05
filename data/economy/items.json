@@ -1,0 +1,176 @@
+{
+    "1519307549243999017": {
+        "id": 1519307549243999017,
+        "guild_id": 1285606383341010954,
+        "name": "süper ender",
+        "description": "Enderliğini yükselt sohbette ismini öne çıkar",
+        "price": 100,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "expires_at": null,
+        "emoji_unicode": "",
+        "emoji_id": "1518729013710028820",
+        "requirements": [
+            {
+                "type": {},
+                "match_type": {},
+                "ids": [
+                    "1287046556763164724"
+                ]
+            }
+        ],
+        "actions": [
+            {
+                "type": {},
+                "ids": [
+                    "1519437749453717637"
+                ]
+            },
+            {
+                "type": {},
+                "ids": [
+                    "1287046556763164724"
+                ]
+            }
+        ],
+        "source": "unbelievaboat"
+    },
+    "1519307651291415338": {
+        "id": 1519307651291415338,
+        "guild_id": 1285606383341010954,
+        "name": "Epic",
+        "description": "Hey ne bakıyorsun alsana beni",
+        "price": 150,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "expires_at": null,
+        "emoji_unicode": "",
+        "emoji_id": "1518729095364608150",
+        "requirements": [
+            {
+                "type": {},
+                "match_type": {},
+                "ids": [
+                    "1519437749453717637"
+                ]
+            }
+        ],
+        "actions": [
+            {
+                "type": {},
+                "ids": [
+                    "1519641206072541416"
+                ]
+            },
+            {
+                "type": {},
+                "ids": [
+                    "1519437749453717637"
+                ]
+            }
+        ],
+        "source": "unbelievaboat"
+    },
+    "1519307706849166123": {
+        "id": 1519307706849166123,
+        "guild_id": 1285606383341010954,
+        "name": "Mythic",
+        "description": "",
+        "price": 200,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "expires_at": null,
+        "emoji_unicode": "",
+        "emoji_id": "1518729136670249091",
+        "requirements": [
+            {
+                "type": {},
+                "match_type": {},
+                "ids": [
+                    "1519641206072541416"
+                ]
+            }
+        ],
+        "actions": [
+            {
+                "type": {},
+                "ids": [
+                    "1519641366118924328"
+                ]
+            },
+            {
+                "type": {},
+                "ids": [
+                    "1519641206072541416"
+                ]
+            }
+        ],
+        "source": "unbelievaboat"
+    },
+    "1519307802483491628": {
+        "id": 1519307802483491628,
+        "guild_id": 1285606383341010954,
+        "name": "Legendary",
+        "description": "",
+        "price": 250,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "expires_at": null,
+        "emoji_unicode": "",
+        "emoji_id": "1518729176188981461",
+        "requirements": [
+            {
+                "type": {},
+                "match_type": {},
+                "ids": [
+                    "1519641366118924328"
+                ]
+            }
+        ],
+        "actions": [
+            {
+                "type": {},
+                "ids": [
+                    "1519641522046500924"
+                ]
+            },
+            {
+                "type": {},
+                "ids": [
+                    "1519641366118924328"
+                ]
+            }
+        ],
+        "source": "unbelievaboat"
+    },
+    "1545003147632706714": {
+        "id": 1545003147632706714,
+        "guild_id": 1285606383341010954,
+        "name": "disable <@&1287047005054570528>",
+        "description": "",
+        "price": 20000,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "expires_at": null,
+        "emoji_unicode": "",
+        "emoji_id": null,
+        "requirements": [],
+        "actions": [],
+        "source": "unbelievaboat"
+    }
+}

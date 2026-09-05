@@ -1,0 +1,162 @@
+[
+    {
+        "id": "e714897a-c9e4-4a14-ac8f-935ed3554eb4",
+        "user_id": "1196858410302455901",
+        "type": "transfer_sent",
+        "amount": -100,
+        "balance_before": 881,
+        "balance_after": 781,
+        "source": "to:1449942590798692528",
+        "timestamp": 1788537619
+    },
+    {
+        "id": "890c8a25-6648-4062-a8a2-96c38c0eec53",
+        "user_id": "1449942590798692528",
+        "type": "transfer_received",
+        "amount": 100,
+        "balance_before": 253,
+        "balance_after": 353,
+        "source": "from:1196858410302455901",
+        "timestamp": 1788537619
+    },
+    {
+        "id": "f8606186-a340-4ff0-99bd-c1081003c8dc",
+        "user_id": "1196858410302455901",
+        "type": "daily",
+        "amount": 100,
+        "balance_before": 781,
+        "balance_after": 881,
+        "source": "daily",
+        "timestamp": 1788538454
+    },
+    {
+        "id": "6dd65ba6-51be-4f35-b063-29cef4c27a35",
+        "user_id": "1196858410302455901",
+        "type": "work",
+        "amount": 64,
+        "balance_before": 881,
+        "balance_after": 945,
+        "source": "work",
+        "timestamp": 1788538484
+    },
+    {
+        "id": "8bff49d2-bf6d-44a0-9db8-8dcb0610c71e",
+        "user_id": "1196858410302455901",
+        "type": "crime_failure",
+        "amount": -25,
+        "balance_before": 945,
+        "balance_after": 920,
+        "source": "secret_tournament",
+        "timestamp": 1788538545
+    },
+    {
+        "id": "362a42fb-7767-4af0-ab60-f32a400240db",
+        "user_id": "1521090892667162765",
+        "type": "admin_give",
+        "amount": 20,
+        "balance_before": 147,
+        "balance_after": 167,
+        "source": "admin:1196858410302455901",
+        "timestamp": 1788538628
+    },
+    {
+        "id": "a6e909b9-8a88-455c-8e1a-3a0c173c3e60",
+        "user_id": "1196858410302455901",
+        "type": "work",
+        "amount": 27,
+        "balance_before": 920,
+        "balance_after": 947,
+        "source": "work",
+        "timestamp": 1788551087
+    },
+    {
+        "id": "218cc3a2-8bae-4956-9251-32e3633cbffe",
+        "user_id": "1196858410302455901",
+        "type": "transfer_sent",
+        "amount": -100,
+        "balance_before": 947,
+        "balance_after": 847,
+        "source": "to:1521090892667162765",
+        "timestamp": 1788552497
+    },
+    {
+        "id": "a3e437f4-df21-4350-9700-5c7140aaaf18",
+        "user_id": "1521090892667162765",
+        "type": "transfer_received",
+        "amount": 100,
+        "balance_before": 167,
+        "balance_after": 267,
+        "source": "from:1196858410302455901",
+        "timestamp": 1788552497
+    },
+    {
+        "id": "c1df245a-84e3-489f-bc99-3361d9ad10f0",
+        "user_id": "1196858410302455901",
+        "type": "work",
+        "amount": 76,
+        "balance_before": 847,
+        "balance_after": 923,
+        "source": "work",
+        "timestamp": 1788553070
+    },
+    {
+        "id": "c85914be-f69e-4b69-a83d-b0cc16197d7d",
+        "user_id": "1196858410302455901",
+        "type": "crime_reward",
+        "amount": 81,
+        "balance_before": 923,
+        "balance_after": 1004,
+        "source": "night_market",
+        "timestamp": 1788553078
+    },
+    {
+        "id": "acfd8266-f5c3-4f5f-96f8-b98704bb4235",
+        "user_id": "1196858410302455901",
+        "type": "daily",
+        "amount": 100,
+        "balance_before": 1004,
+        "balance_after": 1104,
+        "source": "daily",
+        "timestamp": 1788553169
+    },
+    {
+        "id": "3193322d-6c43-465b-96e5-f2545d5bd36a",
+        "user_id": "1196858410302455901",
+        "type": "work",
+        "amount": 100,
+        "balance_before": 1104,
+        "balance_after": 1204,
+        "source": "work",
+        "timestamp": 1788555108
+    },
+    {
+        "id": "15df978b-8270-4e42-b18f-15df7c2d6460",
+        "user_id": "1196858410302455901",
+        "type": "crime_reward",
+        "amount": 313,
+        "balance_before": 1204,
+        "balance_after": 1517,
+        "source": "shadow_mission",
+        "timestamp": 1788555120
+    },
+    {
+        "id": "13ad6ddf-4af0-4b07-95e4-81f4200e4630",
+        "user_id": "1196858410302455901",
+        "type": "work",
+        "amount": 34,
+        "balance_before": 1517,
+        "balance_after": 1551,
+        "source": "work",
+        "timestamp": 1788604549
+    },
+    {
+        "id": "fac4efa0-8409-48ed-ae67-853b950162f2",
+        "user_id": "1196858410302455901",
+        "type": "crime_loss",
+        "amount": -100,
+        "balance_before": 1551,
+        "balance_after": 1451,
+        "source": "phoenix_heist",
+        "timestamp": 1788604561
+    }
+]

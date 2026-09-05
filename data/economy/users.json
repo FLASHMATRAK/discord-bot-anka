@@ -1,0 +1,709 @@
+{
+    "1454751694528188541": {
+        "user_id": "1454751694528188541",
+        "cash": 1821,
+        "bank": 20,
+        "total": 1841,
+        "rank": "1",
+        "source": "unbelievaboat"
+    },
+    "1196858410302455901": {
+        "user_id": "1196858410302455901",
+        "cash": 1451,
+        "bank": 0,
+        "total": 1451,
+        "rank": "2",
+        "source": "unbelievaboat",
+        "wanted": true,
+        "wanted_level": 2,
+        "wanted_until": 1788560520
+    },
+    "1449942590798692528": {
+        "user_id": "1449942590798692528",
+        "cash": 100,
+        "bank": 253,
+        "total": 353,
+        "rank": "3",
+        "source": "unbelievaboat"
+    },
+    "1128955924699156591": {
+        "user_id": "1128955924699156591",
+        "cash": 167,
+        "bank": 0,
+        "total": 167,
+        "rank": "4",
+        "source": "unbelievaboat"
+    },
+    "1521090892667162765": {
+        "user_id": "1521090892667162765",
+        "cash": 247,
+        "bank": 20,
+        "total": 267,
+        "rank": "5",
+        "source": "unbelievaboat"
+    },
+    "735838370193997876": {
+        "user_id": "735838370193997876",
+        "cash": 109,
+        "bank": 20,
+        "total": 129,
+        "rank": "6",
+        "source": "unbelievaboat"
+    },
+    "1100847444499124325": {
+        "user_id": "1100847444499124325",
+        "cash": 106,
+        "bank": 20,
+        "total": 126,
+        "rank": "7",
+        "source": "unbelievaboat"
+    },
+    "1330119867860389920": {
+        "user_id": "1330119867860389920",
+        "cash": 64,
+        "bank": 20,
+        "total": 84,
+        "rank": "8",
+        "source": "unbelievaboat"
+    },
+    "1272485058036502560": {
+        "user_id": "1272485058036502560",
+        "cash": 20,
+        "bank": 20,
+        "total": 40,
+        "rank": "9",
+        "source": "unbelievaboat"
+    },
+    "1513149319619018883": {
+        "user_id": "1513149319619018883",
+        "cash": 19,
+        "bank": 20,
+        "total": 39,
+        "rank": "10",
+        "source": "unbelievaboat"
+    },
+    "1385935412026937386": {
+        "user_id": "1385935412026937386",
+        "cash": 17,
+        "bank": 20,
+        "total": 37,
+        "rank": "11",
+        "source": "unbelievaboat"
+    },
+    "1004715113263149086": {
+        "user_id": "1004715113263149086",
+        "cash": 14,
+        "bank": 20,
+        "total": 34,
+        "rank": "12",
+        "source": "unbelievaboat"
+    },
+    "1515816000392663113": {
+        "user_id": "1515816000392663113",
+        "cash": 11,
+        "bank": 20,
+        "total": 31,
+        "rank": "13",
+        "source": "unbelievaboat"
+    },
+    "1479038555769540648": {
+        "user_id": "1479038555769540648",
+        "cash": 10,
+        "bank": 20,
+        "total": 30,
+        "rank": "14",
+        "source": "unbelievaboat"
+    },
+    "1526139994392100968": {
+        "user_id": "1526139994392100968",
+        "cash": 6,
+        "bank": 20,
+        "total": 26,
+        "rank": "15",
+        "source": "unbelievaboat"
+    },
+    "1269712480373047340": {
+        "user_id": "1269712480373047340",
+        "cash": 6,
+        "bank": 20,
+        "total": 26,
+        "rank": "16",
+        "source": "unbelievaboat"
+    },
+    "1205776288300933162": {
+        "user_id": "1205776288300933162",
+        "cash": 4,
+        "bank": 20,
+        "total": 24,
+        "rank": "17",
+        "source": "unbelievaboat"
+    },
+    "1272460449207681185": {
+        "user_id": "1272460449207681185",
+        "cash": 3,
+        "bank": 20,
+        "total": 23,
+        "rank": "18",
+        "source": "unbelievaboat"
+    },
+    "994620823170207774": {
+        "user_id": "994620823170207774",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "19",
+        "source": "unbelievaboat"
+    },
+    "1002632939273728010": {
+        "user_id": "1002632939273728010",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "20",
+        "source": "unbelievaboat"
+    },
+    "1009120446022684672": {
+        "user_id": "1009120446022684672",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "21",
+        "source": "unbelievaboat"
+    },
+    "1016774404102967318": {
+        "user_id": "1016774404102967318",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "22",
+        "source": "unbelievaboat"
+    },
+    "1036671147628036209": {
+        "user_id": "1036671147628036209",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "23",
+        "source": "unbelievaboat"
+    },
+    "1074240783697322004": {
+        "user_id": "1074240783697322004",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "24",
+        "source": "unbelievaboat"
+    },
+    "1121369937236217926": {
+        "user_id": "1121369937236217926",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "25",
+        "source": "unbelievaboat"
+    },
+    "1125136122620678248": {
+        "user_id": "1125136122620678248",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "26",
+        "source": "unbelievaboat"
+    },
+    "1139958873604751410": {
+        "user_id": "1139958873604751410",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "27",
+        "source": "unbelievaboat"
+    },
+    "1160585631672565791": {
+        "user_id": "1160585631672565791",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "28",
+        "source": "unbelievaboat"
+    },
+    "1168974406333235231": {
+        "user_id": "1168974406333235231",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "29",
+        "source": "unbelievaboat"
+    },
+    "1185316313476890625": {
+        "user_id": "1185316313476890625",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "30",
+        "source": "unbelievaboat"
+    },
+    "1185550645495869541": {
+        "user_id": "1185550645495869541",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "31",
+        "source": "unbelievaboat"
+    },
+    "1186290838024753153": {
+        "user_id": "1186290838024753153",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "32",
+        "source": "unbelievaboat"
+    },
+    "1217777020684075059": {
+        "user_id": "1217777020684075059",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "33",
+        "source": "unbelievaboat"
+    },
+    "1218266886446387272": {
+        "user_id": "1218266886446387272",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "34",
+        "source": "unbelievaboat"
+    },
+    "1220015345251651584": {
+        "user_id": "1220015345251651584",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "35",
+        "source": "unbelievaboat"
+    },
+    "1235673622925021325": {
+        "user_id": "1235673622925021325",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "36",
+        "source": "unbelievaboat"
+    },
+    "1247586455904063704": {
+        "user_id": "1247586455904063704",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "37",
+        "source": "unbelievaboat"
+    },
+    "1259030937581260862": {
+        "user_id": "1259030937581260862",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "38",
+        "source": "unbelievaboat"
+    },
+    "1282428085039272046": {
+        "user_id": "1282428085039272046",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "39",
+        "source": "unbelievaboat"
+    },
+    "1283092802464645363": {
+        "user_id": "1283092802464645363",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "40",
+        "source": "unbelievaboat"
+    },
+    "1292563570613162126": {
+        "user_id": "1292563570613162126",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "41",
+        "source": "unbelievaboat"
+    },
+    "1310308080256286811": {
+        "user_id": "1310308080256286811",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "42",
+        "source": "unbelievaboat"
+    },
+    "1325543855248113664": {
+        "user_id": "1325543855248113664",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "43",
+        "source": "unbelievaboat"
+    },
+    "1326122527524655166": {
+        "user_id": "1326122527524655166",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "44",
+        "source": "unbelievaboat"
+    },
+    "1328410312449327266": {
+        "user_id": "1328410312449327266",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "45",
+        "source": "unbelievaboat"
+    },
+    "1328980203946512451": {
+        "user_id": "1328980203946512451",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "46",
+        "source": "unbelievaboat"
+    },
+    "1353406832361734244": {
+        "user_id": "1353406832361734244",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "47",
+        "source": "unbelievaboat"
+    },
+    "1361909182529409054": {
+        "user_id": "1361909182529409054",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "48",
+        "source": "unbelievaboat"
+    },
+    "1372188609922338888": {
+        "user_id": "1372188609922338888",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "49",
+        "source": "unbelievaboat"
+    },
+    "1379860922805387266": {
+        "user_id": "1379860922805387266",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "50",
+        "source": "unbelievaboat"
+    },
+    "1380695083124391948": {
+        "user_id": "1380695083124391948",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "51",
+        "source": "unbelievaboat"
+    },
+    "1395091230961963018": {
+        "user_id": "1395091230961963018",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "52",
+        "source": "unbelievaboat"
+    },
+    "1398204756626899016": {
+        "user_id": "1398204756626899016",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "53",
+        "source": "unbelievaboat"
+    },
+    "1409531170328416396": {
+        "user_id": "1409531170328416396",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "54",
+        "source": "unbelievaboat"
+    },
+    "1410291822927810560": {
+        "user_id": "1410291822927810560",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "55",
+        "source": "unbelievaboat"
+    },
+    "1414301146368966656": {
+        "user_id": "1414301146368966656",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "56",
+        "source": "unbelievaboat"
+    },
+    "1430565768755544095": {
+        "user_id": "1430565768755544095",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "57",
+        "source": "unbelievaboat"
+    },
+    "1436677825649442877": {
+        "user_id": "1436677825649442877",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "58",
+        "source": "unbelievaboat"
+    },
+    "1466589567556780218": {
+        "user_id": "1466589567556780218",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "59",
+        "source": "unbelievaboat"
+    },
+    "1466879664776679528": {
+        "user_id": "1466879664776679528",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "60",
+        "source": "unbelievaboat"
+    },
+    "1470801213296480326": {
+        "user_id": "1470801213296480326",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "61",
+        "source": "unbelievaboat"
+    },
+    "1473034964953071921": {
+        "user_id": "1473034964953071921",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "62",
+        "source": "unbelievaboat"
+    },
+    "1487404536342646925": {
+        "user_id": "1487404536342646925",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "63",
+        "source": "unbelievaboat"
+    },
+    "1490453075784241284": {
+        "user_id": "1490453075784241284",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "64",
+        "source": "unbelievaboat"
+    },
+    "1491469929801715873": {
+        "user_id": "1491469929801715873",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "65",
+        "source": "unbelievaboat"
+    },
+    "1510425583610499284": {
+        "user_id": "1510425583610499284",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "66",
+        "source": "unbelievaboat"
+    },
+    "1518236611295449219": {
+        "user_id": "1518236611295449219",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "67",
+        "source": "unbelievaboat"
+    },
+    "1526223461611995306": {
+        "user_id": "1526223461611995306",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "68",
+        "source": "unbelievaboat"
+    },
+    "1526593468724543724": {
+        "user_id": "1526593468724543724",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "69",
+        "source": "unbelievaboat"
+    },
+    "317784577940783105": {
+        "user_id": "317784577940783105",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "70",
+        "source": "unbelievaboat"
+    },
+    "1538297616297754666": {
+        "user_id": "1538297616297754666",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "71",
+        "source": "unbelievaboat"
+    },
+    "358001735861796866": {
+        "user_id": "358001735861796866",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "72",
+        "source": "unbelievaboat"
+    },
+    "462220454849937410": {
+        "user_id": "462220454849937410",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "73",
+        "source": "unbelievaboat"
+    },
+    "565933853739319305": {
+        "user_id": "565933853739319305",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "74",
+        "source": "unbelievaboat"
+    },
+    "636995161511165982": {
+        "user_id": "636995161511165982",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "75",
+        "source": "unbelievaboat"
+    },
+    "679694264019583035": {
+        "user_id": "679694264019583035",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "76",
+        "source": "unbelievaboat"
+    },
+    "683664893655777319": {
+        "user_id": "683664893655777319",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "77",
+        "source": "unbelievaboat"
+    },
+    "708658081835515904": {
+        "user_id": "708658081835515904",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "78",
+        "source": "unbelievaboat"
+    },
+    "709113794428796949": {
+        "user_id": "709113794428796949",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "79",
+        "source": "unbelievaboat"
+    },
+    "744227188617773176": {
+        "user_id": "744227188617773176",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "80",
+        "source": "unbelievaboat"
+    },
+    "747120584168701976": {
+        "user_id": "747120584168701976",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "81",
+        "source": "unbelievaboat"
+    },
+    "784128199369687130": {
+        "user_id": "784128199369687130",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "82",
+        "source": "unbelievaboat"
+    },
+    "817001636072259595": {
+        "user_id": "817001636072259595",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "83",
+        "source": "unbelievaboat"
+    },
+    "859397761261371423": {
+        "user_id": "859397761261371423",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "84",
+        "source": "unbelievaboat"
+    },
+    "898597059383398420": {
+        "user_id": "898597059383398420",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "85",
+        "source": "unbelievaboat"
+    },
+    "902819709240635402": {
+        "user_id": "902819709240635402",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "86",
+        "source": "unbelievaboat"
+    },
+    "919241782330527774": {
+        "user_id": "919241782330527774",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "87",
+        "source": "unbelievaboat"
+    },
+    "991690866437660693": {
+        "user_id": "991690866437660693",
+        "cash": 0,
+        "bank": 20,
+        "total": 20,
+        "rank": "88",
+        "source": "unbelievaboat"
+    }
+}
