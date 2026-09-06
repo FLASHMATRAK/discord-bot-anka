@@ -1,0 +1,166 @@
+{
+    "1519307549243999017": {
+        "id": 1519307549243999017,
+        "guild_id": 1285606383341010954,
+        "name": "Süper Rare",
+        "aliases": ["super rare", "sr", "süper rare", "superrare", "super"],
+        "description": "Enderliğini yükselt, sohbette ismini öne çıkar.",
+        "price": 100,
+        "sell_price": 50,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stackable": true,
+        "tradable": true,
+        "usable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "emoji_name": "super_rare",
+        "emoji_id": "1518729013710028820",
+        "requirements": [],
+        "actions": [
+            {
+                "type": "add_role",
+                "ids": ["1519437749453717637"]
+            },
+            {
+                "type": "remove_role",
+                "ids": []
+            }
+        ],
+        "source": "custom"
+    },
+    "1519307651291415338": {
+        "id": 1519307651291415338,
+        "guild_id": 1285606383341010954,
+        "name": "Epic",
+        "aliases": ["ep", "epik", "epic"],
+        "description": "Hey ne bakıyorsun, alsana beni.",
+        "price": 150,
+        "sell_price": 75,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stackable": true,
+        "tradable": true,
+        "usable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "emoji_name": "epic",
+        "emoji_id": "1519641206072541416",
+        "requirements": [
+            {
+                "type": "role",
+                "match_type": "has",
+                "ids": ["1519437749453717637"]
+            }
+        ],
+        "actions": [
+            {
+                "type": "add_role",
+                "ids": ["1519641206072541416"]
+            },
+            {
+                "type": "remove_role",
+                "ids": ["1519437749453717637"]
+            }
+        ],
+        "source": "custom"
+    },
+    "1519307706849166123": {
+        "id": 1519307706849166123,
+        "guild_id": 1285606383341010954,
+        "name": "Mythic",
+        "aliases": ["my", "mitik", "mythic", "mit"],
+        "description": "Efsanelerin ötesine geç.",
+        "price": 200,
+        "sell_price": 100,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stackable": true,
+        "tradable": true,
+        "usable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "emoji_name": "mythic",
+        "emoji_id": "1519641366118924328",
+        "requirements": [
+            {
+                "type": "role",
+                "match_type": "has",
+                "ids": ["1519641206072541416"]
+            }
+        ],
+        "actions": [
+            {
+                "type": "add_role",
+                "ids": ["1519641366118924328"]
+            },
+            {
+                "type": "remove_role",
+                "ids": ["1519641206072541416"]
+            }
+        ],
+        "source": "custom"
+    },
+    "1519307802483491628": {
+        "id": 1519307802483491628,
+        "guild_id": 1285606383341010954,
+        "name": "Legendary",
+        "aliases": ["leg", "legend", "legendary", "efsane"],
+        "description": "En nadir unvan. Seçilmişlerin simgesi.",
+        "price": 250,
+        "sell_price": 125,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stackable": true,
+        "tradable": true,
+        "usable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "emoji_name": "legendary",
+        "emoji_id": "1519641522046500924",
+        "requirements": [
+            {
+                "type": "role",
+                "match_type": "has",
+                "ids": ["1519641366118924328"]
+            }
+        ],
+        "actions": [
+            {
+                "type": "add_role",
+                "ids": ["1519641522046500924"]
+            },
+            {
+                "type": "remove_role",
+                "ids": ["1519641366118924328"]
+            }
+        ],
+        "source": "custom"
+    },
+    "1545003147632706714": {
+        "id": 1545003147632706714,
+        "guild_id": 1285606383341010954,
+        "name": "Disable",
+        "aliases": ["dis", "disable"],
+        "description": "<@&1287047005054570528> rolünü devre dışı bırak.",
+        "price": 20000,
+        "sell_price": 10000,
+        "is_inventory": true,
+        "is_usable": true,
+        "is_sellable": true,
+        "stackable": true,
+        "tradable": true,
+        "usable": true,
+        "stock_remaining": 0,
+        "unlimited_stock": true,
+        "emoji_name": "disable",
+        "emoji_id": "",
+        "requirements": [],
+        "actions": [],
+        "source": "custom"
+    }
+}

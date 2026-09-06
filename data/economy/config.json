@@ -1,0 +1,22 @@
+{
+    "guild_id": "1285606383341010954",
+    "currency_name": "Elmas",
+    "currency_symbol": "💎",
+    "starting_balance": 0,
+    "source": "unbelievaboat",
+    "daily_reward": 100,
+    "daily_cooldown": 86400,
+    "work_min": 20,
+    "work_max": 100,
+    "work_cooldown": 60,
+    "crime_cooldown": 30,
+    "sell_rate": 0.5,
+    "transfer_limit": 10000,
+    "shop_page_size": 6,
+    "inventory_page_size": 8,
+    "import": {
+        "completed": true,
+        "date": "2026-09-04T14:33:07.260381+00:00"
+    },
+    "_cooldown_signature": "{\"crime_cooldown\": 30, \"daily_cooldown\": 86400, \"work_cooldown\": 60}"
+}

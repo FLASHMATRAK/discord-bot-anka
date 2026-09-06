@@ -114,7 +114,7 @@ def setup(bot):
     async def ai_prefix_handler(message: discord.Message):
         if message.author.bot:
             return
-        if not message.content.startswith("!"):
+        if not message.content.startswith("ai!"):
             return
 
         mesaj = message.content[1:].strip()
