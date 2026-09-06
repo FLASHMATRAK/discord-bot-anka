@@ -20,9 +20,22 @@ def setup(bot):
             )
             return
 
-        outlaw_members = outlaw_role.members
+        wanted_members = []
 
-        if not outlaw_members:
+        for member in outlaw_role.members:
+            data = state.wanted_data.get(member.id)
+
+            if not data:
+                continue
+
+            bounty = int(data.get("bounty", 0))
+
+            if bounty <= 0:
+                continue
+
+            wanted_members.append((member, bounty))
+
+        if not wanted_members:
             await interaction.response.send_message(
                 "✅ No one is currently wanted."
             )
@@ -33,15 +46,13 @@ def setup(bot):
             color=discord.Color.dark_red()
         )
 
-        for member in outlaw_members:
-            user_id = str(member.id)
-
-            data = state.wanted_data.get(user_id, {})
-            bounty = data.get("bounty", 0)
-
+        for member, bounty in wanted_members:
             embed.add_field(
                 name=member.display_name,
-                value=f"<@{member.id}>\nBounty: **{bounty} diamonds**",
+                value=(
+                    f"<@{member.id}>\n"
+                    f"Bounty: **{bounty:,} SP**"
+                ),
                 inline=False
             )
 

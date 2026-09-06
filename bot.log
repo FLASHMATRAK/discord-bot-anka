@@ -5984,3 +5984,180 @@ discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 4004
 2026-09-06 15:44:06,361 [INFO] bot: 📦 Toplam 37 komut dosyası yüklendi, 0 dosya atlandı.
 2026-09-06 15:44:06,361 [INFO] discord.client: logging in using static token
 2026-09-06 15:44:06,652 [CRITICAL] bot: ❌ Geçersiz token! config.json içindeki 'token' değerini kontrol et. Bot durduruluyor.
+2026-09-06 15:05:54,065 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-09-06 15:05:54,065 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-09-06 15:05:54,067 [INFO] bot: ✅ Yüklendi: commands/genel/help.py
+2026-09-06 15:05:54,068 [INFO] bot: ✅ Yüklendi: commands/genel/rules.py
+2026-09-06 15:05:54,862 [INFO] bot: ✅ Yüklendi: commands/genel/sohbet.py
+2026-09-06 15:05:54,863 [INFO] bot: ✅ Yüklendi: commands/genel/welcome.py
+2026-09-06 15:05:54,864 [INFO] bot: ✅ Yüklendi: commands/sabika/criminal_record.py
+2026-09-06 15:05:54,867 [INFO] bot: ✅ Yüklendi: commands/moderasyon/ban.py
+2026-09-06 15:05:54,868 [INFO] bot: ✅ Yüklendi: commands/moderasyon/clearwarnings.py
+2026-09-06 15:05:54,869 [INFO] bot: ✅ Yüklendi: commands/moderasyon/filter_listener.py
+2026-09-06 15:05:54,870 [INFO] bot: ✅ Yüklendi: commands/moderasyon/kick.py
+2026-09-06 15:05:54,872 [INFO] bot: ✅ Yüklendi: commands/moderasyon/lock.py
+2026-09-06 15:05:54,873 [INFO] bot: ✅ Yüklendi: commands/moderasyon/mute.py
+2026-09-06 15:05:54,874 [INFO] bot: ✅ Yüklendi: commands/moderasyon/purge.py
+2026-09-06 15:05:54,874 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unlock.py
+2026-09-06 15:05:54,875 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unmute.py
+2026-09-06 15:05:54,876 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warn.py
+2026-09-06 15:05:54,877 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warnings_list.py
+2026-09-06 15:05:54,951 [INFO] bot: ✅ Yüklendi: commands/ceviri/nuke_translate.py
+2026-09-06 15:05:54,952 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_all_roles.py
+2026-09-06 15:05:54,953 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_role.py
+2026-09-06 15:05:54,953 [INFO] bot: ✅ Yüklendi: commands/economy/ __init__.py
+2026-09-06 15:05:54,965 [INFO] bot: ✅ Yüklendi: commands/economy/economy.py
+2026-09-06 15:05:54,966 [INFO] bot: ✅ Yüklendi: commands/economy/inventory.py
+2026-09-06 15:05:54,968 [INFO] bot: ✅ Yüklendi: commands/economy/items.py
+2026-09-06 15:05:54,969 [INFO] bot: ✅ Yüklendi: commands/economy/leaderboard.py
+2026-09-06 15:05:54,974 [INFO] bot: ✅ Yüklendi: commands/economy/shop.py
+2026-09-06 15:05:54,975 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/give_award.py
+2026-09-06 15:05:54,976 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/history.py
+2026-09-06 15:05:54,977 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/hunt_request.py
+2026-09-06 15:05:54,978 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/leaderboard.py
+2026-09-06 15:05:54,979 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/proof.py
+2026-09-06 15:05:54,979 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_points.py
+2026-09-06 15:05:54,980 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_user_points.py
+2026-09-06 15:05:54,982 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/set_role_icon.py
+2026-09-06 15:05:54,983 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/status.py
+2026-09-06 15:05:54,985 [INFO] bot: ✅ Yüklendi: commands/wanted/catch_wanted.py
+2026-09-06 15:05:54,987 [INFO] bot: ✅ Yüklendi: commands/wanted/crime_listener.py
+2026-09-06 15:05:54,988 [INFO] bot: ✅ Yüklendi: commands/wanted/wanted_list.py
+2026-09-06 15:05:54,988 [INFO] bot: 📦 Toplam 37 komut dosyası yüklendi, 0 dosya atlandı.
+2026-09-06 15:05:54,988 [INFO] discord.client: logging in using static token
+2026-09-06 15:05:55,141 [CRITICAL] bot: ❌ Geçersiz token! config.json içindeki 'token' değerini kontrol et. Bot durduruluyor.
+2026-09-06 15:08:47,881 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-09-06 15:08:47,881 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-09-06 15:08:47,882 [INFO] bot: ✅ Yüklendi: commands/genel/help.py
+2026-09-06 15:08:47,883 [INFO] bot: ✅ Yüklendi: commands/genel/rules.py
+2026-09-06 15:08:48,743 [INFO] bot: ✅ Yüklendi: commands/genel/sohbet.py
+2026-09-06 15:08:48,743 [INFO] bot: ✅ Yüklendi: commands/genel/welcome.py
+2026-09-06 15:08:48,744 [INFO] bot: ✅ Yüklendi: commands/sabika/criminal_record.py
+2026-09-06 15:08:48,745 [INFO] bot: ✅ Yüklendi: commands/moderasyon/ban.py
+2026-09-06 15:08:48,745 [INFO] bot: ✅ Yüklendi: commands/moderasyon/clearwarnings.py
+2026-09-06 15:08:48,745 [INFO] bot: ✅ Yüklendi: commands/moderasyon/filter_listener.py
+2026-09-06 15:08:48,746 [INFO] bot: ✅ Yüklendi: commands/moderasyon/kick.py
+2026-09-06 15:08:48,746 [INFO] bot: ✅ Yüklendi: commands/moderasyon/lock.py
+2026-09-06 15:08:48,746 [INFO] bot: ✅ Yüklendi: commands/moderasyon/mute.py
+2026-09-06 15:08:48,747 [INFO] bot: ✅ Yüklendi: commands/moderasyon/purge.py
+2026-09-06 15:08:48,747 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unlock.py
+2026-09-06 15:08:48,747 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unmute.py
+2026-09-06 15:08:48,748 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warn.py
+2026-09-06 15:08:48,748 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warnings_list.py
+2026-09-06 15:08:48,836 [INFO] bot: ✅ Yüklendi: commands/ceviri/nuke_translate.py
+2026-09-06 15:08:48,837 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_all_roles.py
+2026-09-06 15:08:48,837 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_role.py
+2026-09-06 15:08:48,838 [INFO] bot: ✅ Yüklendi: commands/economy/ __init__.py
+2026-09-06 15:08:48,840 [INFO] bot: ✅ Yüklendi: commands/economy/economy.py
+2026-09-06 15:08:48,841 [INFO] bot: ✅ Yüklendi: commands/economy/inventory.py
+2026-09-06 15:08:48,842 [INFO] bot: ✅ Yüklendi: commands/economy/items.py
+2026-09-06 15:08:48,843 [INFO] bot: ✅ Yüklendi: commands/economy/leaderboard.py
+2026-09-06 15:08:48,844 [INFO] bot: ✅ Yüklendi: commands/economy/shop.py
+2026-09-06 15:08:48,845 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/give_award.py
+2026-09-06 15:08:48,845 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/history.py
+2026-09-06 15:08:48,846 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/hunt_request.py
+2026-09-06 15:08:48,846 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/leaderboard.py
+2026-09-06 15:08:48,847 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/proof.py
+2026-09-06 15:08:48,847 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_points.py
+2026-09-06 15:08:48,848 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_user_points.py
+2026-09-06 15:08:48,849 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/set_role_icon.py
+2026-09-06 15:08:48,849 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/status.py
+2026-09-06 15:08:48,854 [INFO] bot: ✅ Yüklendi: commands/wanted/catch_wanted.py
+2026-09-06 15:08:48,854 [INFO] bot: ✅ Yüklendi: commands/wanted/crime_listener.py
+2026-09-06 15:08:48,855 [INFO] bot: ✅ Yüklendi: commands/wanted/wanted_list.py
+2026-09-06 15:08:48,855 [INFO] bot: 📦 Toplam 37 komut dosyası yüklendi, 0 dosya atlandı.
+2026-09-06 15:08:48,856 [INFO] discord.client: logging in using static token
+2026-09-06 15:08:49,777 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: c098c34a908f228fd99993fb587a0eb9).
+2026-09-06 15:08:51,787 [INFO] bot: 🤖 ankatuber's perfect bot test giriş yaptı!
+2026-09-06 15:08:52,176 [INFO] bot: 🔄 30 slash komut senkronize edildi!
+2026-09-06 15:15:01,478 [INFO] bot: Bot normal şekilde durduruldu, yeniden başlatılmıyor.
+2026-09-06 15:15:06,919 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-09-06 15:15:06,919 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-09-06 15:15:06,920 [INFO] bot: ✅ Yüklendi: commands/genel/help.py
+2026-09-06 15:15:06,920 [INFO] bot: ✅ Yüklendi: commands/genel/rules.py
+2026-09-06 15:15:07,643 [INFO] bot: ✅ Yüklendi: commands/genel/sohbet.py
+2026-09-06 15:15:07,643 [INFO] bot: ✅ Yüklendi: commands/genel/welcome.py
+2026-09-06 15:15:07,644 [INFO] bot: ✅ Yüklendi: commands/sabika/criminal_record.py
+2026-09-06 15:15:07,644 [INFO] bot: ✅ Yüklendi: commands/moderasyon/ban.py
+2026-09-06 15:15:07,645 [INFO] bot: ✅ Yüklendi: commands/moderasyon/clearwarnings.py
+2026-09-06 15:15:07,645 [INFO] bot: ✅ Yüklendi: commands/moderasyon/filter_listener.py
+2026-09-06 15:15:07,645 [INFO] bot: ✅ Yüklendi: commands/moderasyon/kick.py
+2026-09-06 15:15:07,645 [INFO] bot: ✅ Yüklendi: commands/moderasyon/lock.py
+2026-09-06 15:15:07,646 [INFO] bot: ✅ Yüklendi: commands/moderasyon/mute.py
+2026-09-06 15:15:07,646 [INFO] bot: ✅ Yüklendi: commands/moderasyon/purge.py
+2026-09-06 15:15:07,646 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unlock.py
+2026-09-06 15:15:07,647 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unmute.py
+2026-09-06 15:15:07,647 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warn.py
+2026-09-06 15:15:07,648 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warnings_list.py
+2026-09-06 15:15:07,719 [INFO] bot: ✅ Yüklendi: commands/ceviri/nuke_translate.py
+2026-09-06 15:15:07,720 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_all_roles.py
+2026-09-06 15:15:07,721 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_role.py
+2026-09-06 15:15:07,721 [INFO] bot: ✅ Yüklendi: commands/economy/ __init__.py
+2026-09-06 15:15:07,723 [INFO] bot: ✅ Yüklendi: commands/economy/economy.py
+2026-09-06 15:15:07,724 [INFO] bot: ✅ Yüklendi: commands/economy/inventory.py
+2026-09-06 15:15:07,724 [INFO] bot: ✅ Yüklendi: commands/economy/items.py
+2026-09-06 15:15:07,725 [INFO] bot: ✅ Yüklendi: commands/economy/leaderboard.py
+2026-09-06 15:15:07,726 [INFO] bot: ✅ Yüklendi: commands/economy/shop.py
+2026-09-06 15:15:07,726 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/give_award.py
+2026-09-06 15:15:07,727 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/history.py
+2026-09-06 15:15:07,727 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/hunt_request.py
+2026-09-06 15:15:07,728 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/leaderboard.py
+2026-09-06 15:15:07,728 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/proof.py
+2026-09-06 15:15:07,729 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_points.py
+2026-09-06 15:15:07,729 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_user_points.py
+2026-09-06 15:15:07,730 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/set_role_icon.py
+2026-09-06 15:15:07,730 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/status.py
+2026-09-06 15:15:07,731 [INFO] bot: ✅ Yüklendi: commands/wanted/catch_wanted.py
+2026-09-06 15:15:07,731 [INFO] bot: ✅ Yüklendi: commands/wanted/crime_listener.py
+2026-09-06 15:15:07,732 [INFO] bot: ✅ Yüklendi: commands/wanted/wanted_list.py
+2026-09-06 15:15:07,733 [INFO] bot: 📦 Toplam 37 komut dosyası yüklendi, 0 dosya atlandı.
+2026-09-06 15:15:07,733 [INFO] discord.client: logging in using static token
+2026-09-06 15:15:09,115 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7192f53c6cf10afd0c21db8b0d755b00).
+2026-09-06 15:15:11,123 [INFO] bot: 🤖 ankatuber's perfect bot test giriş yaptı!
+2026-09-06 15:15:11,426 [INFO] bot: 🔄 30 slash komut senkronize edildi!
+2026-09-06 15:17:52,781 [INFO] bot: Bot normal şekilde durduruldu, yeniden başlatılmıyor.
+2026-09-06 15:17:57,373 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-09-06 15:17:57,374 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-09-06 15:17:57,374 [INFO] bot: ✅ Yüklendi: commands/genel/help.py
+2026-09-06 15:17:57,375 [INFO] bot: ✅ Yüklendi: commands/genel/rules.py
+2026-09-06 15:17:58,089 [INFO] bot: ✅ Yüklendi: commands/genel/sohbet.py
+2026-09-06 15:17:58,090 [INFO] bot: ✅ Yüklendi: commands/genel/welcome.py
+2026-09-06 15:17:58,091 [INFO] bot: ✅ Yüklendi: commands/sabika/criminal_record.py
+2026-09-06 15:17:58,092 [INFO] bot: ✅ Yüklendi: commands/moderasyon/ban.py
+2026-09-06 15:17:58,092 [INFO] bot: ✅ Yüklendi: commands/moderasyon/clearwarnings.py
+2026-09-06 15:17:58,092 [INFO] bot: ✅ Yüklendi: commands/moderasyon/filter_listener.py
+2026-09-06 15:17:58,093 [INFO] bot: ✅ Yüklendi: commands/moderasyon/kick.py
+2026-09-06 15:17:58,093 [INFO] bot: ✅ Yüklendi: commands/moderasyon/lock.py
+2026-09-06 15:17:58,093 [INFO] bot: ✅ Yüklendi: commands/moderasyon/mute.py
+2026-09-06 15:17:58,094 [INFO] bot: ✅ Yüklendi: commands/moderasyon/purge.py
+2026-09-06 15:17:58,094 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unlock.py
+2026-09-06 15:17:58,094 [INFO] bot: ✅ Yüklendi: commands/moderasyon/unmute.py
+2026-09-06 15:17:58,095 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warn.py
+2026-09-06 15:17:58,095 [INFO] bot: ✅ Yüklendi: commands/moderasyon/warnings_list.py
+2026-09-06 15:17:58,158 [INFO] bot: ✅ Yüklendi: commands/ceviri/nuke_translate.py
+2026-09-06 15:17:58,158 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_all_roles.py
+2026-09-06 15:17:58,159 [INFO] bot: ✅ Yüklendi: commands/ceviri/translate_role.py
+2026-09-06 15:17:58,159 [INFO] bot: ✅ Yüklendi: commands/economy/ __init__.py
+2026-09-06 15:17:58,160 [INFO] bot: ✅ Yüklendi: commands/economy/economy.py
+2026-09-06 15:17:58,161 [INFO] bot: ✅ Yüklendi: commands/economy/inventory.py
+2026-09-06 15:17:58,162 [INFO] bot: ✅ Yüklendi: commands/economy/items.py
+2026-09-06 15:17:58,162 [INFO] bot: ✅ Yüklendi: commands/economy/leaderboard.py
+2026-09-06 15:17:58,163 [INFO] bot: ✅ Yüklendi: commands/economy/shop.py
+2026-09-06 15:17:58,164 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/give_award.py
+2026-09-06 15:17:58,165 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/history.py
+2026-09-06 15:17:58,165 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/hunt_request.py
+2026-09-06 15:17:58,166 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/leaderboard.py
+2026-09-06 15:17:58,166 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/proof.py
+2026-09-06 15:17:58,166 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_points.py
+2026-09-06 15:17:58,167 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/reset_user_points.py
+2026-09-06 15:17:58,167 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/set_role_icon.py
+2026-09-06 15:17:58,168 [INFO] bot: ✅ Yüklendi: commands/hunter_outlaw/status.py
+2026-09-06 15:17:58,169 [INFO] bot: ✅ Yüklendi: commands/wanted/catch_wanted.py
+2026-09-06 15:17:58,169 [INFO] bot: ✅ Yüklendi: commands/wanted/crime_listener.py
+2026-09-06 15:17:58,170 [INFO] bot: ✅ Yüklendi: commands/wanted/wanted_list.py
+2026-09-06 15:17:58,171 [INFO] bot: 📦 Toplam 37 komut dosyası yüklendi, 0 dosya atlandı.
+2026-09-06 15:17:58,171 [INFO] discord.client: logging in using static token
+2026-09-06 15:17:59,000 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: f82130c5b2ae504706f511b6cfb5c441).
+2026-09-06 15:18:01,011 [INFO] bot: 🤖 ankatuber's perfect bot test giriş yaptı!
+2026-09-06 15:18:01,383 [INFO] bot: 🔄 30 slash komut senkronize edildi!
+2026-09-06 15:19:43,989 [INFO] bot: Bot normal şekilde durduruldu, yeniden başlatılmıyor.
